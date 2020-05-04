@@ -27,10 +27,7 @@ You can find the corresponding blog post here: https://medium.com/@abhidey2230/m
 What's included:
 Within the repository you'll find the following files:
 
-Arvato Project.ipynb # Jupyter notebook containing the whole project
-
-features.csv # Listing of feature names, types and missing values
-
+DSND_Capstone_Project.ipynb # Jupyter notebook containing the whole project
 README.md
 
 Libraries used:
